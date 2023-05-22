@@ -1,0 +1,2 @@
+model_checkpoint_path: "epoch0-acc0.633-loss0.648_newModel.ckpt"
+all_model_checkpoint_paths: "epoch0-acc0.633-loss0.648_newModel.ckpt"
